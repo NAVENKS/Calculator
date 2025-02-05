@@ -1,0 +1,47 @@
+.main{
+    display: grid;
+    grid-template-columns:100px 100px 100px 100px;
+    row-gap: 10px;
+}
+
+.back
+{
+    background-color: transparent;
+    width: 370px;
+}
+.num
+{
+    height: 40px;
+    width: 70px;
+}
+.input
+{
+    height: 60px;
+    width: 363px;
+    margin-bottom: 10px;
+    font-size: 60px;
+    text-align: end;
+    
+}
+.equal
+{
+    height: 50px;
+    width: 370px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: greenyellow;
+}
+.background
+{
+    background-color: rgb(62, 62, 63);
+    width: 370px;
+    height: 350px;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    border-radius: 20px
+    ;
+}
